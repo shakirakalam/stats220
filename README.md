@@ -27,4 +27,4 @@ This repository contains the following projects:
 5. **Project 5**: *Creating data from digital sources*
 
 ## Socials
-Connect me on [Linkedin](www.linkedin.com/in/shakirakalam) <br> Or contact me via email: skal809@aucklanduni.ac.nz
+Connect me on [Linkedin](https://www.linkedin.com/in/shakirakalam/) <br> Or contact me via email: skal809@aucklanduni.ac.nz
