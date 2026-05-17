@@ -1,7 +1,7 @@
 # STATS 220 Repository
-Welcome to Akira's STATS 220 repository 💜
+Welcome to Shakira's STATS 220 repository 💜
 
-Akira Kalam maintains this repository and showcases the projects completed during the STATS 220 course. Here, you'll find a collection of projects demonstrating proficiency in various programming languages and statistical analysis techniques. 
+Shakira Kalam maintains this repository and showcases the projects completed during the STATS 220 course. Here, you'll find a collection of projects demonstrating proficiency in various programming languages and statistical analysis techniques. 
 
 See the [STATS 220](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=STATS%20220) course overview for additional details on this course.
 
